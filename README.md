@@ -1,4 +1,4 @@
-# Be welcome 🤜🏾🤛🏾
+# Welcome 🤜🏾🤛🏾
 
 
 ### A little introduction about me
