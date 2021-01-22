@@ -9,12 +9,12 @@ I have a degree in System Analysis and Development by FIAP (Faculdade de Inform√
 
 ### About my repositories
 
-I tried to make public only the repositories that I made entirely. Projects I did in courses, almost all private. But I can share if you want to.
+I tried to make public only the repositories that I made entirely. The Projects that I carried out in courses are private. But I can share if you want to.
 
 ### Studies
 
-I'm currently learning Java and its framework: Spring. Despite other studies that I continue to learn, such as Angular and its ecosystem.
-But I confess that lately I fell in love with Spring by the way things can be done with it. Well, soon enough more projects will appear here.
+I'm currently learning Java and its framework: Spring. Despite I continue to learn others technologies, such as Angular and its ecosystem.
+I confess that lately I fell in love with Spring by the way things can be done with it. Well, soon enough more projects will appear here.
 
 ### Projects - or not
 
