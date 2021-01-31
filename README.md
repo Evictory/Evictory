@@ -2,8 +2,7 @@
 
 
 ### A little introduction about me
-I have been working with software development for over 6 months, and I have over 2 years of academic experience in it.
-I consider myself a junior level in software development, and this is my level of knowledge (some higher) in technologies such as: Angular, HTML, CSS, Typescript, Kotlin, ColdFusion, Java, PostgreSQL, Docker, Git and Gitlab.
+I have been working with software development with technologies such as: Angular, HTML, CSS, Typescript, Kotlin, ColdFusion, Java, PostgreSQL, Docker, Git and Gitlab.
 
 I have a degree in System Analysis and Development by FIAP (Faculdade de Informática e Administração Paulista).
 
